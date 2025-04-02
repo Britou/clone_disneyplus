@@ -6,7 +6,7 @@
     background-image: url('../images/hero_desktop.jpeg');
     background-position: 50%;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     text-align: center;
 
     @media (max-width: 768px) {
